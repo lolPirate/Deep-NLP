@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/cornell_movie_dialogs_corpus.zip
